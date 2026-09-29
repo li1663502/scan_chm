@@ -1,0 +1,28 @@
+{
+  "active_running": [
+    {
+      "chm": 0.16,
+      "gpu": "0",
+      "pid": 2950788,
+      "target_tu": 120000
+    },
+    {
+      "chm": 0.17,
+      "gpu": "1",
+      "pid": 2950789,
+      "target_tu": 120000
+    }
+  ],
+  "stages": [
+    120000,
+    160000,
+    200000
+  ],
+  "updated_at": "2026-07-27 21:57:12",
+  "upper_transition": {
+    "hi_nonlinear": 0.18,
+    "lo_locked": 0.15,
+    "midpoint": 0.16499999999999998,
+    "width": 0.03
+  }
+}

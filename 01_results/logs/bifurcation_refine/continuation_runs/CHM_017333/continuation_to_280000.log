@@ -1,0 +1,13 @@
+
+===== continuation 2026-07-28 20:34:38 chi_M=0.17333333 gpu=1 target=280000 =====
+[Exp2-extend] target_tu = 280000, runstep = 280000000 iter
+[Exp2-extend] restart_tu=240000 target_tu=280000
+[allocateBottomGridHostStorage] EulerNodes: 641601, EulerElements: 640000
+[Exp2.5] gel spacing: intervalx=60.00 intervaly=60.00, base=(175.0, 170.0)
+[Exp1] m_params.CHM = 0.173333 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+[Exp1] m_params.CHM = 0.173333 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+CHS = 0.250000, f = 0.900000, ep = 0.300000, I = 0.000000
+count = 0
+[Exp2-extend] iterating from 240000001 to 280000000

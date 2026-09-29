@@ -1,0 +1,37 @@
+branch,source,case,CHM,d_center,d_lower,d_upper,t_lower,t_upper,window_start,window_end,smoothing_points,sample_basis,cycle_status
+unbound,baseline,CHM_000,0.00000000,71.767088,71.767088,71.767088,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+unbound,baseline,CHM_00025,0.00250000,71.852960,71.852960,71.852960,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+unbound,baseline,CHM_0005,0.00500000,71.937624,71.937624,71.937624,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+unbound,baseline,CHM_001,0.01000000,72.104933,72.104933,72.104933,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+unbound,baseline,CHM_003,0.03000000,72.840117,72.840117,72.840117,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+locked,baseline,CHM_005,0.05000000,53.046301,53.046301,53.046301,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+locked,baseline,CHM_008,0.08000000,53.050418,53.050418,53.050418,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+locked,baseline,CHM_010,0.10000000,49.858260,49.858260,49.858260,,,90000,119999,0,last 25% of trajectory before t < 120000,stationary mean
+locked,baseline,CHM_015,0.15000000,55.643337,55.643337,55.643337,,,150000,199999,0,last 25% of trajectory before t < 200000,stationary mean
+locked,continuation,CHM_0p16,0.16000000,56.556780,56.556780,56.556780,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p16667,0.16666667,57.107555,57.107555,57.107555,,,230000,239999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p17,0.17000000,57.287848,57.287848,57.287848,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p17333,0.17333333,57.896911,57.896911,57.896911,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p17556,0.17555555,57.392283,57.392283,57.392283,,,230000,239999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p17667,0.17666667,57.589250,57.589250,57.589250,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+locked,continuation,CHM_0p17704,0.17703704,57.522711,57.522711,57.522711,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+transition,continuation,CHM_0p1772,0.17720000,62.340034,56.859663,67.136855,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+transition,continuation,CHM_0p17741,0.17740741,61.189183,56.082056,67.015115,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+transition,continuation,CHM_0p1775,0.17750000,58.136734,55.443196,62.071627,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+transition,continuation,CHM_0p1776,0.17760000,58.226188,56.165099,61.162580,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+locked,continuation,CHM_0p1777,0.17770000,57.597985,57.597985,57.597985,,,260000,279999,0,last 25% of trajectory after t >= 200000,stationary mean
+transition,continuation,CHM_0p17778,0.17777778,59.932887,53.661258,66.047024,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+transition,continuation,CHM_0p17889,0.17888889,65.662597,59.218828,70.917770,,,260000,279999,0,last 25% of trajectory after t >= 200000,critical-band spread
+breathing,baseline,CHM_018,0.18000000,72.071617,52.612854,91.530381,197417,164889,160000,200000,501,global extrema of the 501-point moving-average distance in a fixed phase window,complete-cycle anchor
+breathing,supplement,CHM_0p181,0.18100000,73.602833,54.986213,92.219454,200001,229516,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p1825,0.18250000,73.793086,54.990137,92.596036,200001,229604,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p185,0.18500000,74.278528,54.996630,93.560425,200001,229720,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p1875,0.18750000,74.643609,55.003351,94.283866,200001,229775,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p19,0.19000000,75.128013,55.009900,95.246126,200001,229769,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p195,0.19500000,75.795308,55.024041,96.566576,200001,229725,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p205,0.20500000,77.267140,55.052897,99.481383,200001,229945,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p215,0.21500000,78.680838,55.082176,102.279500,200001,230073,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p22,0.22000000,79.561132,55.097654,104.024611,200001,230060,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p24,0.24000000,82.904403,55.160665,110.648141,200001,230041,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p26,0.26000000,86.228361,55.227834,117.228888,200001,229808,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion
+breathing,supplement,CHM_0p29,0.29000000,91.178672,55.333260,127.024084,200001,229125,200001,240000,501,global extrema of the 501-point moving-average distance in a fixed phase window,first phase-aligned excursion

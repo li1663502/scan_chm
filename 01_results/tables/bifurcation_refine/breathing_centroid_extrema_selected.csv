@@ -1,0 +1,28 @@
+role,source,case,CHM,d_min,d_max,t_min,t_max,window_start,window_end,selection
+locked_branch,baseline,CHM_005,0.05000000,53.046301,53.046301,,,90000,119999,late-time locked mean
+locked_branch,baseline,CHM_008,0.08000000,53.050418,53.050418,,,90000,119999,late-time locked mean
+locked_branch,baseline,CHM_010,0.10000000,49.858260,49.858260,,,90000,119999,late-time locked mean
+locked_branch,baseline,CHM_015,0.15000000,55.643337,55.643337,,,150000,199999,late-time locked mean
+locked_branch,continuation,CHM_0p16,0.16000000,56.556780,56.556780,,,260000,279999,late-time locked mean
+locked_branch,continuation,CHM_0p16667,0.16666667,57.107555,57.107555,,,230000,239999,late-time locked mean
+locked_branch,continuation,CHM_0p17,0.17000000,57.287848,57.287848,,,260000,279999,late-time locked mean
+locked_branch,continuation,CHM_0p17333,0.17333333,57.896911,57.896911,,,260000,279999,late-time locked mean
+locked_branch,continuation,CHM_0p17556,0.17555555,57.392283,57.392283,,,230000,239999,late-time locked mean
+locked_branch,continuation,CHM_0p17667,0.17666667,57.589250,57.589250,,,260000,279999,late-time locked mean
+locked_branch,continuation,CHM_0p17704,0.17703704,57.522711,57.522711,,,260000,279999,late-time locked mean
+locked_branch,continuation,CHM_0p1777,0.17770000,57.597985,57.597985,,,260000,279999,late-time locked mean
+connected_branch,baseline,CHM_018,0.18000000,52.612854,91.530381,197417,164889,160000,200000,complete-cycle anchor
+connected_branch,supplement,CHM_0p181,0.18100000,54.986213,92.219454,200001,229516,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p1825,0.18250000,54.990137,92.596036,200001,229604,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p185,0.18500000,54.996630,93.560425,200001,229720,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p1875,0.18750000,55.003351,94.283866,200001,229775,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p19,0.19000000,55.009900,95.246126,200001,229769,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p195,0.19500000,55.024041,96.566576,200001,229725,200001,240000,phase-aligned first excursion
+independent_validation,baseline,CHM_020,0.20000000,45.477503,102.202806,175648,145237,100000,200000,independent complete-cycle validation; not connected
+connected_branch,supplement,CHM_0p205,0.20500000,55.052897,99.481383,200001,229945,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p215,0.21500000,55.082176,102.279500,200001,230073,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p22,0.22000000,55.097654,104.024611,200001,230060,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p24,0.24000000,55.160665,110.648141,200001,230041,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p26,0.26000000,55.227834,117.228888,200001,229808,200001,240000,phase-aligned first excursion
+connected_branch,supplement,CHM_0p29,0.29000000,55.333260,127.024084,200001,229125,200001,240000,phase-aligned first excursion
+connected_branch,baseline,CHM_030,0.30000000,53.325413,136.565194,138371,172075,100000,200000,complete-cycle anchor

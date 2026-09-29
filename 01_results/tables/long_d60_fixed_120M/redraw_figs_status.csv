@@ -1,0 +1,5 @@
+CHM,folder,data_found,memory_final,chemistry_final,rc_timeseries,rc_trajectory,speed_timeseries,dynamics_mp4,status,notes
+0.0025,CHM_00025,yes,yes,yes,yes,yes,yes,yes,ok,ok
+0.005,CHM_0005,yes,yes,yes,yes,yes,yes,yes,ok,ok
+0.01,CHM_001,yes,yes,yes,yes,yes,yes,yes,ok,ok
+0.03,CHM_003,yes,yes,yes,yes,yes,yes,yes,ok,ok

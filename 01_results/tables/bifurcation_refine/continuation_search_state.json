@@ -1,0 +1,15 @@
+{
+  "active_running": [],
+  "seed_tu": 200000,
+  "stages": [
+    240000,
+    280000
+  ],
+  "updated_at": "2026-07-31 09:53:33",
+  "upper_transition_continuation": {
+    "hi_nonlinear": 0.17777778,
+    "lo_locked": 0.17666667,
+    "midpoint": 0.177222225,
+    "width": 0.0011111099999999985
+  }
+}

@@ -1,0 +1,9 @@
+[Exp1] runstep = 120000000 iter
+[allocateBottomGridHostStorage] EulerNodes: 641601, EulerElements: 640000
+[Exp2.5] gel spacing: intervalx=60.00 intervaly=60.00, base=(175.0, 170.0)
+[Exp1] m_params.CHM = 0.002500 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+[Exp1] m_params.CHM = 0.002500 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+CHS = 0.250000, f = 0.900000, ep = 0.300000, I = 0.000000
+count = 0

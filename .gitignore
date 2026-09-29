@@ -1,0 +1,14 @@
+# Large simulation data intentionally kept outside GitHub.
+/01_results/raw/
+/06_tests/chm020_mechanism_diagnostics_20260924/
+
+# Superseded local archive; canonical code and outputs remain tracked.
+/99_archive/
+
+# Local/runtime by-products.
+**/__pycache__/
+*.py[cod]
+*.pid
+*.tmp
+*.swp
+.DS_Store

@@ -1,0 +1,20 @@
+
+===== launch 2026-07-27 21:51:00 chi_M=0.16000000 gpu=0 target=120000 =====
+[Exp2-extend] target_tu = 120000, runstep = 120000000 iter
+[Exp2-extend] restart_tu=0 target_tu=120000
+[allocateBottomGridHostStorage] EulerNodes: 641601, EulerElements: 640000
+[Exp2.5] gel spacing: intervalx=60.00 intervaly=60.00, base=(175.0, 170.0)
+[Exp1] m_params.CHM = 0.160000 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+[Exp1] m_params.CHM = 0.160000 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+
+===== launch 2026-07-27 21:53:10 chi_M=0.16000000 gpu=0 target=120000 =====
+[Exp2-extend] target_tu = 120000, runstep = 120000000 iter
+[Exp2-extend] restart_tu=0 target_tu=120000
+[allocateBottomGridHostStorage] EulerNodes: 641601, EulerElements: 640000
+[Exp2.5] gel spacing: intervalx=60.00 intervaly=60.00, base=(175.0, 170.0)
+[Exp1] m_params.CHM = 0.160000 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601
+[Exp1] m_params.CHM = 0.160000 (from CHM_VAL env)
+[allocateGelGridHostStorage] GelNodes: 2704, GelElements: 2601

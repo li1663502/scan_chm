@@ -1,0 +1,44 @@
+[setup] gel dims = LX=50 LY=50  (nodes 52x52, elems 51x51)
+[setup] run_dir   = /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003
+[setup] data_dir  = /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003/0
+[setup] figs_dir  = /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003/figs
+[setup] params (s, κ, φ) = None
+[setup] detected 2 gel(s), igs=[0, 1]
+[15.0] gel0 bc shape=(120000, 10), idx range [0, 119999], unique=120000
+[15.0] idx_to_TU = 1.0
+[a] rc_timeseries.png ...
+[b] rc_trajectory.png ...
+[c] speed_timeseries.png ...
+[d] chemistry_final.png ...
+[e] memory_final.png ...
+[anim] dynamics.mp4 ...
+[anim] preparing animation (120 frames @ 3 fps)
+[anim] ffmpeg available = True
+[anim]   frame 1/120  TU=1000
+[anim]   frame 1/120  TU=1000
+[anim]   frame 6/120  TU=6000
+[anim]   frame 11/120  TU=11000
+[anim]   frame 16/120  TU=16000
+[anim]   frame 21/120  TU=21000
+[anim]   frame 26/120  TU=26000
+[anim]   frame 31/120  TU=31000
+[anim]   frame 36/120  TU=36000
+[anim]   frame 41/120  TU=41000
+[anim]   frame 46/120  TU=46000
+[anim]   frame 51/120  TU=51000
+[anim]   frame 56/120  TU=56000
+[anim]   frame 61/120  TU=61000
+[anim]   frame 66/120  TU=66000
+[anim]   frame 71/120  TU=71000
+[anim]   frame 76/120  TU=76000
+[anim]   frame 81/120  TU=81000
+[anim]   frame 86/120  TU=86000
+[anim]   frame 91/120  TU=91000
+[anim]   frame 96/120  TU=96000
+[anim]   frame 101/120  TU=101000
+[anim]   frame 106/120  TU=106000
+[anim]   frame 111/120  TU=111000
+[anim]   frame 116/120  TU=116000
+[anim]   frame 120/120  TU=120000
+[anim] saved /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003/figs/dynamics.mp4
+[done]

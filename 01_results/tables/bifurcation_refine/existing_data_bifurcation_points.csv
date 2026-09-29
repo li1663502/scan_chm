@@ -1,0 +1,46 @@
+role,source,case,CHM,d_center,d_lower,d_upper,window_start,window_end,status,panel
+unbound,baseline,CHM_000,0.00000000,71.767088,71.767088,71.767088,90000,119999,stationary mean,A
+unbound,baseline,CHM_00025,0.00250000,71.852960,71.852960,71.852960,90000,119999,stationary mean,A
+unbound,baseline,CHM_0005,0.00500000,71.937624,71.937624,71.937624,90000,119999,stationary mean,A
+unbound,baseline,CHM_001,0.01000000,72.104933,72.104933,72.104933,90000,119999,stationary mean,A
+unbound,baseline,CHM_003,0.03000000,72.840117,72.840117,72.840117,90000,119999,stationary mean,A
+locked,baseline,CHM_005,0.05000000,53.046301,53.046301,53.046301,90000,119999,stationary mean,A
+locked,baseline,CHM_008,0.08000000,53.050418,53.050418,53.050418,90000,119999,stationary mean,A
+locked,baseline,CHM_010,0.10000000,49.858260,49.858260,49.858260,90000,119999,stationary mean,A
+locked,baseline,CHM_015,0.15000000,55.643337,55.643337,55.643337,150000,199999,stationary mean,A
+locked,continuation,CHM_0p16,0.16000000,56.556780,56.556780,56.556780,260000,279999,stationary mean,A
+locked,continuation,CHM_0p16667,0.16666667,57.107555,57.107555,57.107555,230000,239999,stationary mean,A
+locked,continuation,CHM_0p17,0.17000000,57.287848,57.287848,57.287848,260000,279999,stationary mean,A
+locked,continuation,CHM_0p17333,0.17333333,57.896911,57.896911,57.896911,260000,279999,stationary mean,A
+locked,continuation,CHM_0p17556,0.17555555,57.392283,57.392283,57.392283,230000,239999,stationary mean,A
+locked,continuation,CHM_0p17667,0.17666667,57.589250,57.589250,57.589250,260000,279999,stationary mean,A
+locked,continuation,CHM_0p17704,0.17703704,57.522711,57.522711,57.522711,260000,279999,stationary mean,A
+transition,continuation,CHM_0p1772,0.17720000,62.340034,56.859663,67.136855,260000,279999,critical-band spread,A
+transition,continuation,CHM_0p17741,0.17740741,61.189183,56.082056,67.015115,260000,279999,critical-band spread,A
+transition,continuation,CHM_0p1775,0.17750000,58.136734,55.443196,62.071627,260000,279999,critical-band spread,A
+transition,continuation,CHM_0p1776,0.17760000,58.226188,56.165099,61.162580,260000,279999,critical-band spread,A
+locked,continuation,CHM_0p1777,0.17770000,57.597985,57.597985,57.597985,260000,279999,stationary mean,A
+transition,continuation,CHM_0p17778,0.17777778,59.932887,53.661258,66.047024,260000,279999,critical-band spread,A
+transition,continuation,CHM_0p17889,0.17888889,65.662597,59.218828,70.917770,260000,279999,critical-band spread,A
+complete_cycle_extrema,baseline,CHM_018,0.18000000,72.252172,52.612854,91.891490,100000,200000,resolved extrema at t=197417/100015,A
+first_excursion_max,baseline,CHM_018,0.18000000,91.530381,,91.530381,160000,200000,complete-cycle anchor,A
+first_excursion_max,supplement,CHM_0p181,0.18100000,92.219454,,92.219454,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p1825,0.18250000,92.596036,,92.596036,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p185,0.18500000,93.560425,,93.560425,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p1875,0.18750000,94.283866,,94.283866,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p19,0.19000000,95.246126,,95.246126,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p195,0.19500000,96.566576,,96.566576,200001,240000,resolved first maximum; following minimum unresolved,A
+complete_cycle_extrema,baseline,CHM_020,0.20000000,73.840154,45.477503,102.202806,100000,200000,resolved extrema at t=175648/145237,A
+first_excursion_max,supplement,CHM_0p205,0.20500000,99.481383,,99.481383,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p215,0.21500000,102.279500,,102.279500,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p22,0.22000000,104.024611,,104.024611,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p24,0.24000000,110.648141,,110.648141,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p26,0.26000000,117.228888,,117.228888,200001,240000,resolved first maximum; following minimum unresolved,A
+first_excursion_max,supplement,CHM_0p29,0.29000000,127.024084,,127.024084,200001,240000,resolved first maximum; following minimum unresolved,A
+complete_cycle_extrema,baseline,CHM_030,0.30000000,94.945304,53.325413,136.565194,100000,200000,resolved extrema at t=138371/172075,A
+baseline_history_complete,baseline,CHM_018,0.18000000,72.824607,52.475880,91.530379,100000,200000,complete periodic evidence,B
+baseline_history_complete,baseline,CHM_020,0.20000000,74.280560,48.830179,101.612199,100000,200000,complete periodic evidence,B
+baseline_history_intermittent,baseline,CHM_023,0.23000000,58.127512,47.122533,76.929315,100000,200000,capture/escape or incomplete-cycle history,B
+baseline_history_intermittent,baseline,CHM_025,0.25000000,117.765736,50.707244,228.090619,100000,200000,capture/escape or incomplete-cycle history,B
+baseline_history_intermittent,baseline,CHM_028,0.28000000,59.612607,48.920020,100.948145,100000,200000,capture/escape or incomplete-cycle history,B
+baseline_history_complete,baseline,CHM_030,0.30000000,100.103361,54.738880,135.914245,100000,200000,complete periodic evidence,B

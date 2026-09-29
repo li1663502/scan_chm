@@ -1,0 +1,8 @@
+case,phase,CHM,d_init,target_tu,final_time,gel0_bodycenter_rows,gel1_bodycenter_rows,gpu,run_status,path
+CHM_020,1,0.2,60,200000,200000,200000,200000,0,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_020
+CHM_015,2,0.15,60,200000,200000,200000,200000,0,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_015
+CHM_018,2,0.18,60,200000,200000,200000,200000,1,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_018
+CHM_023,2,0.23,60,200000,200000,200000,200000,0,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_023
+CHM_025,2,0.25,60,200000,200000,200000,200000,1,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_025
+CHM_028,2,0.28,60,200000,200000,200000,200000,0,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_028
+CHM_030,2,0.3,60,200000,200000,200000,200000,1,complete,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_030

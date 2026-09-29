@@ -1,0 +1,23 @@
+{
+  "chm": 0.16,
+  "decision": "locked",
+  "metrics": {
+    "basis": "last 25% of trajectory after t >= 200000",
+    "bound_fraction": 1.0,
+    "contact_fraction": 0.4606,
+    "d_amp90": 4.281164574957998,
+    "d_max": 59.34969397945424,
+    "d_mean": 56.556780279583464,
+    "d_min": 54.36631314740325,
+    "d_p05": 54.62182205246181,
+    "d_p95": 58.90298662741981,
+    "d_std": 1.549112921151735,
+    "final_time": 279999,
+    "late_start_time": 260000,
+    "n": 80000,
+    "slope_per_100k": -0.8938824880519957
+  },
+  "seed_tu": 200000,
+  "target_tu": 280000,
+  "updated_at": "2026-07-28 13:00:55"
+}

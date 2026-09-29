@@ -1,0 +1,19 @@
+branch,CHM,seed_case,seed_tu,target_tu,root,path
+critical-complete,0.17703704,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p17704
+critical-complete,0.17740741,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p17741
+critical-dense,0.17720000,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p1772
+post-0.18,0.18100000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p181
+critical-dense,0.17750000,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p1775
+post-0.18,0.18250000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p1825
+critical-dense,0.17760000,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p1776
+post-0.18,0.18500000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p185
+critical-dense,0.17770000,CHM_015,200000,280000,continuation,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/continuation_runs/CHM_0p1777
+post-0.18,0.18750000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p1875
+post-0.18,0.19000000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p19
+post-0.18,0.19500000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p195
+post-0.18,0.20500000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p205
+post-0.18,0.21500000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p215
+post-0.18,0.22000000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p22
+post-0.18,0.24000000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p24
+post-0.18,0.26000000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p26
+post-0.18,0.29000000,CHM_018,200000,240000,supplement,/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/bifurcation_refine/supplement_runs/CHM_0p29

@@ -1,0 +1,27 @@
+Nonlinear analysis summary
+============================================================
+
+
+--- CHM_000 ---
+  PSD peak d:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  PSD peak θ:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  MSD asymptotic slope: -0.06  (sub-diffusive)
+  d_late: mean=71.52, std=0.28, min=70.96, max=71.87
+
+--- CHM_005 ---
+  PSD peak d:  f = 0.03220 (1/TU)  →  τ = 31.1 TU
+  PSD peak θ:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  MSD asymptotic slope: 0.35  (sub-diffusive)
+  d_late: mean=53.05, std=1.36, min=51.36, max=55.25
+
+--- CHM_010 ---
+  PSD peak d:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  PSD peak θ:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  MSD asymptotic slope: 0.16  (sub-diffusive)
+  d_late: mean=50.50, std=1.83, min=42.42, max=54.35
+
+--- CHM_020 ---
+  PSD peak d:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  PSD peak θ:  f = 0.00007 (1/TU)  →  τ = 15000.0 TU
+  MSD asymptotic slope: 1.75  (ballistic)
+  d_late: mean=56.22, std=5.68, min=45.73, max=74.27

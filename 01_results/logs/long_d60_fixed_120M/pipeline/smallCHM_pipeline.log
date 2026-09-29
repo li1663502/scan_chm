@@ -1,0 +1,30 @@
+[2026-05-22 15:06:46] small CHM pipeline started
+[2026-05-22 15:06:46] CHM_00025 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_00025.backup_20260522_150646
+[2026-05-22 15:06:46] CHM_0005 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_0005.backup_20260522_150646
+[2026-05-22 15:06:46] CHM_001 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_001.backup_20260522_150646
+[2026-05-22 15:06:46] CHM_003 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003.backup_20260522_150646
+[2026-05-22 15:06:46] START CHM_0005 CHM=0.005 GPU=1
+[2026-05-22 15:06:46] START CHM_00025 CHM=0.0025 GPU=0
+[2026-05-22 15:07:43] small CHM pipeline started
+[2026-05-22 15:07:43] CHM_00025 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_00025.backup_20260522_150743
+[2026-05-22 15:07:43] CHM_0005 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_0005.backup_20260522_150743
+[2026-05-22 15:07:43] CHM_001 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_001.backup_20260522_150743
+[2026-05-22 15:07:43] CHM_003 incomplete; backed up to /media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/CHM_003.backup_20260522_150743
+[2026-05-22 15:07:43] START CHM_00025 CHM=0.0025 GPU=0
+[2026-05-22 15:07:43] START CHM_0005 CHM=0.005 GPU=1
+[2026-05-23 13:30:07] DONE CHM_0005 complete
+[2026-05-23 13:41:43] DONE CHM_00025 complete
+/media/xb/F963E8A1EEEE8BFC/liyang/li-gpu/BOTTOM FEEDBACK/phi_feedback/changeU/experiment2_pair_attractor/sweep_long_d60_fixed_120M/run_smallCHM_pipeline.sh: 行 213: te_status: 未找到命令
+[2026-05-23 13:41:43] START CHM_003 CHM=0.03 GPU=1
+[2026-05-23 13:41:43] START CHM_001 CHM=0.01 GPU=0
+[2026-05-24 12:07:40] DONE CHM_003 complete
+[2026-05-24 12:16:24] DONE CHM_001 complete
+[2026-05-24 12:16:25] ANALYZE START CHM_00025
+[2026-05-24 12:18:14] ANALYZE DONE CHM_00025 complete
+[2026-05-24 12:18:14] ANALYZE START CHM_0005
+[2026-05-24 12:20:02] ANALYZE DONE CHM_0005 complete
+[2026-05-24 12:20:03] ANALYZE START CHM_001
+[2026-05-24 12:21:50] ANALYZE DONE CHM_001 complete
+[2026-05-24 12:21:50] ANALYZE START CHM_003
+[2026-05-24 12:23:37] ANALYZE DONE CHM_003 complete
+[2026-05-24 12:23:38] small CHM pipeline finished
